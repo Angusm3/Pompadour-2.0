@@ -1,0 +1,19 @@
+c:\users\angus\documents\visual studio 2017\Projects\Pompadour 2.0\Pompadour 2.0\bin\Debug\Pompadour 2.0.exe.config
+c:\users\angus\documents\visual studio 2017\Projects\Pompadour 2.0\Pompadour 2.0\bin\Debug\Pompadour 2.0.exe
+c:\users\angus\documents\visual studio 2017\Projects\Pompadour 2.0\Pompadour 2.0\bin\Debug\Pompadour 2.0.pdb
+c:\users\angus\documents\visual studio 2017\Projects\Pompadour 2.0\Pompadour 2.0\bin\Debug\Discord.Net.Commands.dll
+c:\users\angus\documents\visual studio 2017\Projects\Pompadour 2.0\Pompadour 2.0\bin\Debug\Discord.Net.dll
+c:\users\angus\documents\visual studio 2017\Projects\Pompadour 2.0\Pompadour 2.0\bin\Debug\Newtonsoft.Json.dll
+c:\users\angus\documents\visual studio 2017\Projects\Pompadour 2.0\Pompadour 2.0\bin\Debug\Nito.AsyncEx.Concurrent.dll
+c:\users\angus\documents\visual studio 2017\Projects\Pompadour 2.0\Pompadour 2.0\bin\Debug\Nito.AsyncEx.dll
+c:\users\angus\documents\visual studio 2017\Projects\Pompadour 2.0\Pompadour 2.0\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+c:\users\angus\documents\visual studio 2017\Projects\Pompadour 2.0\Pompadour 2.0\bin\Debug\RestSharp.dll
+c:\users\angus\documents\visual studio 2017\Projects\Pompadour 2.0\Pompadour 2.0\bin\Debug\WebSocket4Net.dll
+c:\users\angus\documents\visual studio 2017\Projects\Pompadour 2.0\Pompadour 2.0\bin\Debug\Newtonsoft.Json.xml
+c:\users\angus\documents\visual studio 2017\Projects\Pompadour 2.0\Pompadour 2.0\bin\Debug\Nito.AsyncEx.xml
+c:\users\angus\documents\visual studio 2017\Projects\Pompadour 2.0\Pompadour 2.0\bin\Debug\Nito.AsyncEx.Concurrent.xml
+c:\users\angus\documents\visual studio 2017\Projects\Pompadour 2.0\Pompadour 2.0\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+c:\users\angus\documents\visual studio 2017\Projects\Pompadour 2.0\Pompadour 2.0\bin\Debug\RestSharp.xml
+c:\users\angus\documents\visual studio 2017\Projects\Pompadour 2.0\Pompadour 2.0\obj\Debug\Pompadour 2.0.csprojResolveAssemblyReference.cache
+c:\users\angus\documents\visual studio 2017\Projects\Pompadour 2.0\Pompadour 2.0\obj\Debug\Pompadour 2.0.exe
+c:\users\angus\documents\visual studio 2017\Projects\Pompadour 2.0\Pompadour 2.0\obj\Debug\Pompadour 2.0.pdb
