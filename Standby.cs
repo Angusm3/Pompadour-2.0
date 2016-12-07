@@ -18,7 +18,6 @@ namespace Pompadour_2
 
         public Standby()
         {
-            Console.WriteLine("IN STANDBY");
             bot = new DiscordClient();
 
             bot.ExecuteAndWait(async () =>
@@ -36,27 +35,41 @@ namespace Pompadour_2
         public static string MessageClass = "";
 
 
+
         public static void BotMsg(object sender, MessageEventArgs e)
         {
             string text = e.Message.Text;
             text.ToLower();
-            //public static string messagetext = { "text" };
-            if (text.Equals("_standby"))
+            MessageText = text;
+            MessageUser = e.Message.User.Name;
+
+            if (MessageUser == "Angus" || MessageUser == "hikari")
             {
-                MessageClass = "standby";
-            }
-            if (text.Equals("_dice"))
-            {
-                MessageClass = "dice";
+
+                if (text.Equals("_standby"))
+                {
+                    MessageClass = "standby";
+                    Console.WriteLine("Admin detected");
+                    Console.WriteLine(MessageUser + " activated standby");
+                }
+                if (text.Equals("_dice"))
+                {
+                    MessageClass = "dice";
+                    Console.WriteLine("Admin detected");
+                    Console.WriteLine(MessageUser + " activated dice");
+                }
             }
 
 
             if (MessageClass.Equals("dice"))
             {
-                Console.WriteLine("ENTERRING DICE");
-                Dice D = new Pompadour_2.Dice();
+                    Dice D = new Pompadour_2.Dice();
+                    if (Dice.Response != "")
+                    {
+                        e.Channel.SendMessage(Dice.Response);
+                        Dice.Response = "";
+                    }
             }
-
 
         }
     }
