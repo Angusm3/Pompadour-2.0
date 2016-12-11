@@ -1,6 +1,6 @@
 ﻿using Discord;
-using Discord.Commands;
 using System;
+using System.IO;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,6 +9,8 @@ using System.Diagnostics;
 using System.Text.RegularExpressions;
 using System.Net;
 using System.Globalization;
+using System.Web;
+using System.Threading;
 
 namespace Pompadour_2
 {
